@@ -1,0 +1,5 @@
+.idea
+dependencies
+# Project exclude paths
+/out/
+cache

@@ -1,0 +1,1 @@
+@chainlink/contracts/=dependencies/smartcontractkit-chainlink-brownie-contracts-1.3.0/contracts/
